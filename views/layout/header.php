@@ -1,12 +1,13 @@
 
-<header class="bgFull">
-    <div>
+<header>
+    <div class="base">
         <p> Obtenga hasta un 25% de reembolso en el primer pedido : GET25OFF </p>
     </div>
-    <div>
+    <div class="base2">
         <p>Llamanos Lorem, ipsum.</p>
     </div>
-    <div><!--Selectores-->
+
+    <div class="base3"><!--Selectores-->
         <div>
             <select name="Idioma" id="">
                 <option value="">Español</option>
@@ -25,27 +26,29 @@
     </div>
 
     <div><!--Logo-->
-        <img src="../../public/assets/img/logoMeta.jpg" alt="LogoPrincipal" width="90px" height="60px">
+        <img src="/assets/img/logoMeta.jpg" alt="LogoPrincipal" width="90px" height="60px">
     </div>
+
     <div>
         <div><!--Busqueda-->
             <input type="text" value="Búsqueda en catálogo">
         </div>
         <div><!--lupa busqueda-->
             <button>
-                <img src="../../public/assets/img/lupita.png" alt="" width="20px">
+                <img src="/assets/img/lupita.png" alt="" width="20px">
             </button>
         </div>
     </div>
+
     <div>
         <div>
             <button>
-            <img src="../../public/assets/img/personita.png" alt="" width="20px">
+            <img src="/assets/img/personita.png" alt="" width="20px">
             </button>
         </div>
         <div>
             <button>
-            <img src="../../public/assets/img/carrito.png" alt="" width="20px">
+            <img src="/assets/img/carrito.png" alt="" width="20px">
             </button>
         </div>
     </div>

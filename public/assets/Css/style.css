@@ -1,5 +1,26 @@
-.bgFull {
+body {
 
     background-color: #161B1D;
+    
+}
+.base{
+    display: inline-flex;
+    width: 300px;
+    size-adjust: justify;
+    color: rgb(112, 109, 103);
+    font-size: 16px;
+
+}
+.base2{
+    display: flex;
+    float: center;
+    color: rgb(112, 109, 103);
+    font-size: 16px;
+
+}
+.base3{
+    display: inline-flex;
+    font-size: 16px;
+    float: center;
 
 }
